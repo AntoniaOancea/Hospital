@@ -1,0 +1,17 @@
+{
+    "id_patient": "13",
+    "treatments": [
+        {
+            "id": 13,
+            "doctor_name": "Popescu Ion",
+            "patient_name": "Savu Mihai",
+            "details": "Diabet zaharat"
+        },
+        {
+            "id": 18,
+            "doctor_name": "Ionescu Mihai",
+            "patient_name": "Savu Mihai",
+            "details": "Amigdalita"
+        }
+    ]
+}

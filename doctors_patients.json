@@ -1,0 +1,40 @@
+{
+    "doctors": [
+        {
+            "name": "Popescu Ion",
+            "patients": [
+                {
+                    "name": "Savu Mihai",
+                    "details": "Diabet zaharat"
+                },
+                {
+                    "name": "Nistor Maria",
+                    "details": "Cancer"
+                }
+            ]
+        },
+        {
+            "name": "Ionescu Mihai",
+            "patients": [
+                {
+                    "name": "Cretu Carla",
+                    "details": "Apendicita"
+                },
+                {
+                    "name": "Savu Mihai",
+                    "details": "Diabet zaharat"
+                },
+                {
+                    "name": "Ungureanu Andrei",
+                    "details": "Diabet"
+                }
+            ]
+        }
+    ],
+    "statistics": {
+        "active_treatment_doctors": 2,
+        "active_treatment_patients": 4,
+        "all_doctors": 5,
+        "all_patients": 6
+    }
+}
